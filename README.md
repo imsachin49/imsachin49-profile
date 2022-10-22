@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imsachin49
 - 👀 I’m interested in Web development
-- 🌱 I’m currently exploring open source 
-- 💞️ I’m looking to contribute for open source community
+- 🌱 I’m currently learning backend development 
+- 💞️ I’m looking for contribution in open source community
 - 📫 How to reach me---> kumaraditya7125@gmail.com
 
 <!---
